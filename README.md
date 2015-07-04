@@ -1,1 +1,1 @@
-# pragmatic-scala
+# Pragmatic Scala
